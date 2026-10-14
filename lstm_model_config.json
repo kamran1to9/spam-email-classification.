@@ -1,0 +1,13 @@
+{
+    "vocab_size": 5002,
+    "embedding_dim": 64,
+    "hidden_dim": 64,
+    "max_length": 100,
+    "pad_id": 0,
+    "unk_id": 1,
+    "threshold": 0.5,
+    "labels": {
+        "ham": 0,
+        "spam": 1
+    }
+}
